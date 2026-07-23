@@ -1,0 +1,6 @@
+{
+  "name": "StreaTV",
+  "description": "Um aplicativo de IPTV completo e premium para Android TV, com canais ao vivo, filmes, séries, perfis de usuários e banners integrados do TMDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
